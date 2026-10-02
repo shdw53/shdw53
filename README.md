@@ -1,8 +1,8 @@
-# Hi There, I'm [Guram](mailto:guramtataev@yandex.ru) <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+# Hi There, I'm [Guram](mailto:guramtataev@yandex.ru) <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ215NmgyMmZqeGtmYWpic3p5OXlpNzBtOHNzNzNrajV1bDdsM2VnciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GwEEO7T0ZDPjlmCsLf/giphy.gif" width=100>
 
 **Data Analyst – Bank DOM.RF** | **Applied Math & CS Student**
 
-### 👨‍💻 Currently[cite: 4]
+### 👨‍💻 Currently
 - 💼 **Data Analyst at Bank DOM.RF** (Feb 2025 - Present)
   *Building ML models for customer behavior, designing SQL data marts, and testing statistical hypotheses*
 - 🎓 **MSc Applied Mathematics and Informatics at Higher School of Economics (FCS)** ('28)
